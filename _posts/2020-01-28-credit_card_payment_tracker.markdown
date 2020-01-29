@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Credit Card Payment Tracker"
-date:       2020-01-29 03:27:13 +0000
+date:       2020-01-28 22:27:14 -0500
 permalink:  credit_card_payment_tracker
 ---
 
